@@ -1,0 +1,10 @@
+env/
+Report.docx
+loadDataScript.py
+clearDataScript.py
+queryDataScript.py
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
