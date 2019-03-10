@@ -1,8 +1,8 @@
 env/
 Report.docx
-loadDataScript.py
-clearDataScript.py
-queryDataScript.py
+loadDataScript.pyc
+clearDataScript.pyc
+queryDataScript.pyc
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
